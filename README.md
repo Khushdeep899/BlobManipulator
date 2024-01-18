@@ -10,3 +10,8 @@ JavaFX BlobManipulator is a JavaFX application that demonstrates the creation an
 ## Installation
 
 To run this application, you need to have Java and JavaFX set up on your machine.
+
+Usage
+
+Creating a Blob: Simply click anywhere on the canvas. A blob will appear where you clicked.
+Dragging a Blob: Click and hold on a blob, then drag it to the desired location.
